@@ -1,0 +1,17 @@
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\bin\Debug\Wpf_Calculator_Jovan_Kulevski.exe.config
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\bin\Debug\Wpf_Calculator_Jovan_Kulevski.exe
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\bin\Debug\Wpf_Calculator_Jovan_Kulevski.pdb
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\Wpf_Calculator_Jovan_Kulevski.csprojResolveAssemblyReference.cache
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\MainWindow.g.cs
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\App.g.cs
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\Wpf_Calculator_Jovan_Kulevski_MarkupCompile.cache
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\Wpf_Calculator_Jovan_Kulevski_MarkupCompile.lref
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\App.baml
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\Dictionary1.baml
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\MainWindow.baml
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\Wpf_Calculator_Jovan_Kulevski.g.resources
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\Wpf_Calculator_Jovan_Kulevski.Properties.Resources.resources
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\Wpf_Calculator_Jovan_Kulevski.csproj.GenerateResource.Cache
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\Wpf_Calculator_Jovan_Kulevski.csproj.CoreCompileInputs.cache
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\Wpf_Calculator_Jovan_Kulevski.exe
+C:\Users\Jova\Desktop\Fusion Test\WPF Calculator\Wpf_Calculator_Jovan_Kulevski\Wpf_Calculator_Jovan_Kulevski\obj\Debug\Wpf_Calculator_Jovan_Kulevski.pdb
